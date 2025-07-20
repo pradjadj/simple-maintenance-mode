@@ -1,0 +1,22 @@
+.wrap h1 {
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 200px;
+}
+
+.notice-info {
+    margin-top: 20px;
+}
+
+.notice-info p {
+    margin: 5px 0;
+}
+
+.notice-info code {
+    background: #f0f0f0;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: monospace;
+}
